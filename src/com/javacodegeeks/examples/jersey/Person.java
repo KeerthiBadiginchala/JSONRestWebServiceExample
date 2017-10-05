@@ -2,6 +2,7 @@ package com.javacodegeeks.examples.jersey;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
+
 //@XmlRootElement
 public class Person {
 	private int id;
